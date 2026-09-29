@@ -91,4 +91,4 @@ Software-leaning systems course: the best on-ramp to operating systems, networki
 
 - [ ] Phase 1: Missing Semester
 - [ ] Phase 2: CS61A
-- [ ] Phase 3: CS61C or CSAPP (circle one)
+- [ ] Phase 3: CS61C (chosen 2026-09-29)
